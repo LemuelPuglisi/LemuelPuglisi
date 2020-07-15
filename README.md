@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi there 🦍
 
-[![Lemuel Puglisi's github stats](https://github-readme-stats.vercel.app/api?username=lemuelpuglisi&show_icons=true)](https://lemuelpuglisi.github.io)
+[![Lemuel Puglisi's github stats](https://github-readme-stats.vercel.app/api?username=LemuelPuglisi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://lemuelpuglisi.github.io)
