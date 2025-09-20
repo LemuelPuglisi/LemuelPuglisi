@@ -1,6 +1,6 @@
 Hi, I'm Lemuel Puglisi.
 
-I'm a researcher at Queen Square Analytics (🇬🇧) and a PhD student at the University of Catania (🇮🇹,🤌).
+I'm a researcher at Queen Square Analytics (🇬🇧,🫘) and a PhD student at the University of Catania (🇮🇹,🤌).
 
 My research focuses on:
 
