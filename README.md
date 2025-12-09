@@ -1,13 +1,20 @@
-Hi, I'm Lemuel Puglisi.
+## Lemuel Puglisi
 
-I'm a researcher at Queen Square Analytics (🇬🇧,🫘) and a PhD student at the University of Catania (🇮🇹,🤌).
+I'm a:
 
-My research focuses on:
+* Imaging Research Scientist at [Queen Square Analytics](https://www.queensquareanalytics.com/about-1) (🇬🇧, 🫘)
+* Computer Science PhD Fellow at the [AI-HealthLab](https://portale2.unime.it/ai-healthlab/en/lo_staff/lemuel-puglisi-2/) (🇮🇹, 🤌)
 
-- Generative AI for 4D disease progression modeling [[1](https://papers.miccai.org/miccai-2024/paper/0511_paper.pdf), [2](https://www.sciencedirect.com/science/article/pii/S1361841525002816)] and medical image-to-image translation [[3](https://arxiv.org/pdf/2508.01292)]
-- Assessing memorisation in generative models [[4](https://github.com/brAIn-science/DeepSSIM)] (self-supervised learning) and MRI re-identification [[5](https://proceedings.mlr.press/v227/puglisi24a.html)] (contrastive learning)
-- Contrast-agnostic brain age prediction [[6](https://ieeexplore.ieee.org/abstract/document/10796114)] (domain randomization)
+Bits of my research (First & Co-First authorships):
 
-I also work on various other topics related to medical image analysis and generative AI (e.g., diffusion models, flow matching).
+* 🧠 **[MICCAI'24]** [Brain Latent Progression](https://github.com/LemuelPuglisi/BrLP): generative AI for 4D disease-progression modeling from 3D T1w MRI
+* ☢️ **[AAAI'26]** [CoCoLIT](https://github.com/brAIn-science/CoCoLIT): translating 3D structural MRI to amyloid PET using Latent Diffusion + ControlNet
+* 👴🏻 **[MXR'24]** [SynthBA](https://github.com/LemuelPuglisi/SynthBA): brain-age prediction from structural MRI of any contrast or resolution
+* 💾 **[WACV'26]** [DeepSSIM](https://github.com/brAIn-science/DeepSSIM): a self-supervised image embedding for memorization quantification in medical generative models
+* ☝🏻 **[MIDL'26]** [DeepBrainPrint](https://proceedings.mlr.press/v227/puglisi24a.html): a contrastive-based image embedding for medical image retrieval
 
-You can reach me at: lemuel.puglisi [AT] phd.unict.it
+Open-source contributor to:
+
+* [MindGlide](https://github.com/MS-PINPOINT/mindGlide/): ultrafast segmentation of real-world brain MRI for multiple-sclerosis patients
+
+You can reach me at: **lemuel.puglisi [AT] phd.unict.it**
