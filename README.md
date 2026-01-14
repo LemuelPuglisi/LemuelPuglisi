@@ -11,7 +11,7 @@ Bits of my research (First & Co-First authorships):
 * ☢️ **[AAAI'26]** [CoCoLIT](https://github.com/brAIn-science/CoCoLIT): translating 3D structural MRI to amyloid PET using Latent Diffusion + ControlNet
 * 👴🏻 **[MXR'24]** [SynthBA](https://github.com/LemuelPuglisi/SynthBA): brain-age prediction from structural MRI of any contrast or resolution
 * 💾 **[WACV'26]** [DeepSSIM](https://github.com/brAIn-science/DeepSSIM): a self-supervised image embedding for memorization quantification in medical generative models
-* ☝🏻 **[MIDL'26]** [DeepBrainPrint](https://proceedings.mlr.press/v227/puglisi24a.html): a contrastive-based image embedding for medical image retrieval
+* ☝🏻 **[MIDL'23]** [DeepBrainPrint](https://proceedings.mlr.press/v227/puglisi24a.html): a contrastive-based image embedding for medical image retrieval
 
 Open-source contributor to:
 
