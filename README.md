@@ -1,9 +1,6 @@
 ## Lemuel Puglisi
 
-I'm a:
-
-* Imaging Research Scientist at [Queen Square Analytics](https://www.queensquareanalytics.com/about-1) (🇬🇧, 🫘)
-* Computer Science PhD Fellow at the [AI-HealthLab](https://portale2.unime.it/ai-healthlab/en/lo_staff/lemuel-puglisi-2/) (🇮🇹, 🤌)
+I'm a Computer Science PhD Fellow at the [University of Catania](https://web.dmi.unict.it/en) (🇮🇹, 🤌)
 
 Bits of my research (First & Co-First authorships):
 
