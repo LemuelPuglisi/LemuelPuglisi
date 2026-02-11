@@ -4,11 +4,14 @@ I'm a Computer Science PhD Fellow at the [University of Catania](https://web.dmi
 
 Bits of my research (First & Co-First authorships):
 
-* 🧠 **[MICCAI'24]** [Brain Latent Progression](https://github.com/LemuelPuglisi/BrLP): generative AI for 4D disease-progression modeling from 3D T1w MRI
-* ☢️ **[AAAI'26]** [CoCoLIT](https://github.com/brAIn-science/CoCoLIT): translating 3D structural MRI to amyloid PET using Latent Diffusion + ControlNet
-* 👴🏻 **[MXR'24]** [SynthBA](https://github.com/LemuelPuglisi/SynthBA): brain-age prediction from structural MRI of any contrast or resolution
-* 💾 **[WACV'26]** [DeepSSIM](https://github.com/brAIn-science/DeepSSIM): a self-supervised image embedding for memorization quantification in medical generative models
-* ☝🏻 **[MIDL'23]** [DeepBrainPrint](https://proceedings.mlr.press/v227/puglisi24a.html): a contrastive-based image embedding for medical image retrieval
+| Pipeline                                                                 | Conference | Description                                                                                    |
+| ------------------------------------------------------------------------ | ---------- | ---------------------------------------------------------------------------------------------- |
+| 🧠 [BrLP](https://github.com/LemuelPuglisi/BrLP)     | MICCAI'24  | Generative AI for 4D disease-progression modeling from 3D T1w MRI                              |
+| ☢️ [CoCoLIT](https://github.com/brAIn-science/CoCoLIT)                   | AAAI'26    | Translating 3D structural MRI to amyloid PET using Latent Diffusion + ControlNet               |
+| 👴🏻 [SynthBA](https://github.com/LemuelPuglisi/SynthBA)                 | MXR'24     | Brain-age prediction from structural MRI of any contrast or resolution                         |
+| 💾 [DeepSSIM](https://github.com/brAIn-science/DeepSSIM)                 | WACV'26    | A self-supervised image embedding for memorization quantification in medical generative models |
+| ☝🏻 [DeepBrainPrint](https://proceedings.mlr.press/v227/puglisi24a.html) | MIDL'23    | A contrastive-based image embedding for medical image retrieval                                |
+
 
 Open-source contributor to:
 
